@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Nasr</h1>
 <h3 align="center">I From Egypt and Live in Kuwait, Working Full Stack Developer</h3>
-<img align=“right” alt=“Nasr coder” width=“400” src=“https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966”>
+<img align="right" alt="Nasr coder" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engahnasr22&label=Profile%20views&color=0e75b6&style=flat" alt="engahnasr22" /> </p>
 
@@ -9,8 +9,6 @@
 - 🌱 I’m currently learning **Java Masterclass**
 
 - 👯 I’m looking to collaborate on **Mobile Application Development**
-
-- 🤝 I’m looking for help with **E**
 
 - 💬 Ask me about **React, Angular, Laravel, ASP.NET MVC, Java, Swift and Java Developer**
 
@@ -34,8 +32,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ahnasr2003"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ahnasr2003" /></a><a href="https://ko-fi.com/ahmednasr"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ahmednasr" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engahnasr22&show_icons=true&locale=en&layout=compact" alt="engahnasr22" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=engahnasr22&show_icons=true&locale=en&layout=compact" alt="engahnasr22" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engahnasr22&show_icons=true&locale=en" alt="engahnasr22" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=engahnasr22&show_icons=true&locale=en" alt="engahnasr22" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engahnasr22&" alt="engahnasr22" /></p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=engahnasr22&" alt="engahnasr22" />
